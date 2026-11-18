@@ -1,0 +1,8 @@
+com\example\waitlist\EnrollmentServiceTest$FifoPromotion.class
+com\example\waitlist\EnrollmentServiceTest$FullCapacity.class
+com\example\waitlist\EnrollmentServiceTest$InvalidAndRepeatedDrops.class
+com\example\waitlist\ConcurrencyTest.class
+com\example\waitlist\EnrollmentServiceTest$Duplicates.class
+com\example\waitlist\EnrollmentServiceTest$AvailableCapacity.class
+com\example\waitlist\EnrollmentServiceTest.class
+com\example\waitlist\EnrollmentServiceTest$Prerequisites.class

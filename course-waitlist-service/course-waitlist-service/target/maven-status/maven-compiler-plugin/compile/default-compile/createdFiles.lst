@@ -1,0 +1,10 @@
+com\example\waitlist\DropResult$Status.class
+com\example\waitlist\DropResult.class
+com\example\waitlist\LearnerRegistry.class
+com\example\waitlist\Main.class
+com\example\waitlist\CourseOffering.class
+com\example\waitlist\OfferingSnapshot.class
+com\example\waitlist\EnrollResult$Status.class
+com\example\waitlist\EnrollResult.class
+com\example\waitlist\EnrollmentService.class
+com\example\waitlist\PrerequisitePolicy.class
